@@ -1,5 +1,5 @@
 # Garment Motion Generation Pipeline
-
+- [Report](https://drive.google.com/file/d/1fzX62m4dyMt0K62_9bFGCrr2Z8zokoIQ/view?usp=sharing)
 A multi-component pipeline for image segmentation, editing, and motion generation combining **Segment Anything (SAM)**, **InstructPix2Pix**, and **MotionModes**.
 
 ## 🎯 Overview
